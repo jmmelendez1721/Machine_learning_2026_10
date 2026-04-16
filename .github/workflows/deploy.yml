@@ -24,8 +24,8 @@ jobs:
       - name: Build
         run: myst build --html
 
-        - name: Build with BASE_URL
-          run: BASE_URL=/Machine_learning_2026_10 myst build --html
+      - name: Build with BASE_URL
+        run: BASE_URL=/Machine_learning_2026_10 myst build --html
 
       - name: Check build output
         run: find _build -type f -name "*.html" | head -20
