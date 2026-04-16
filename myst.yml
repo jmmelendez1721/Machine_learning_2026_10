@@ -9,5 +9,5 @@ site:
   template: book-theme
   title: Proyecto Integrador
   options:
-    hide_footer_links: true      # ← Elimina el "Made with MyST"
-    table_of_contents: true      # ← Índice de capítulos a la derecha
+    hide_footer_links: true     
+    table_of_contents: true     

@@ -1,4 +1,4 @@
-name: Deploy MyST Book
+name: Deploy MyST
 
 on:
   push:
@@ -18,8 +18,8 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Build the book
-        run: jupyter-book build .
+      - name: Build
+        run: myst build --html
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
