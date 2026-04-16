@@ -7,7 +7,6 @@ project:
 site:
   template: book-theme
   title: Proyecto Integrador
-  baseurl: /Machine_learning_2026_10
   options:
     hide_footer_links: true
     table_of_contents: true
