@@ -15,20 +15,22 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install msyt
+      - name: Install mystmd
         run: pip install mystmd
 
       - name: Install dependencies
         run: pip install -r requirements.txt
 
       - name: Build
-        run: myst build --html
+        run: myst build --html --execute
 
       - name: Check build output
         run: find _build -type f -name "*.html" | head -20
 
-      - name: Check build output ghp
-        run: find _build -type f | head -30
+      - name: List gh-pages content
+        run: |
+          git fetch origin gh-pages || echo "gh-pages branch not found"
+          git ls-tree -r gh-pages --name-only | head -30 || echo "Could not list gh-pages"
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
