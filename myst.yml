@@ -1,0 +1,13 @@
+version: 1
+project:
+  title: "Proyecto Integrador Machine Learning 2026-10: Meléndez - Quintero"
+
+  chapters:
+    - file: tu_notebook.ipynb
+
+site:
+  template: book-theme
+  title: Proyecto Integrador
+  options:
+    hide_footer_links: true      # ← Elimina el "Made with MyST"
+    table_of_contents: true      # ← Índice de capítulos a la derecha
