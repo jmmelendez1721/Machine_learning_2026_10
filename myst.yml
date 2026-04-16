@@ -1,8 +1,6 @@
 version: 1
 project:
   title: "Proyecto Integrador Machine Learning 2026-10: Meléndez - Quintero"
-  chapters:
-    - file: index.ipynb
 
 site:
   template: book-theme
