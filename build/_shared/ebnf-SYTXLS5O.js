@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Machine_learning_2026_10/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/ebnf.js
 var commentType, stateType, ebnf;
@@ -149,4 +149,4 @@ init_ebnf();
 export {
   ebnf
 };
-//# sourceMappingURL=/build/_shared/ebnf-SYTXLS5O.js.map
+//# sourceMappingURL=/Machine_learning_2026_10/build/_shared/ebnf-SYTXLS5O.js.map

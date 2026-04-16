@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Machine_learning_2026_10/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/fortran.js
 function words(array) {
@@ -479,4 +479,4 @@ init_fortran();
 export {
   fortran
 };
-//# sourceMappingURL=/build/_shared/fortran-RHELYCYL.js.map
+//# sourceMappingURL=/Machine_learning_2026_10/build/_shared/fortran-RHELYCYL.js.map

@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Machine_learning_2026_10/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/accesslog.js
 var require_accesslog = __commonJS({
@@ -102,4 +102,4 @@ var require_accesslog = __commonJS({
   }
 });
 export default require_accesslog();
-//# sourceMappingURL=/build/_shared/accesslog-UHSG2BZF.js.map
+//# sourceMappingURL=/Machine_learning_2026_10/build/_shared/accesslog-UHSG2BZF.js.map

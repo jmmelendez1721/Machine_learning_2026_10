@@ -1,14 +1,14 @@
 import {
   addCommonDirectiveOptions,
   commonDirectiveOptions
-} from "/build/_shared/chunk-2GZXDR27.js";
-import "/build/_shared/chunk-DOEQHMLC.js";
-import "/build/_shared/chunk-ZNG4DSCS.js";
+} from "/Machine_learning_2026_10/build/_shared/chunk-2GZXDR27.js";
+import "/Machine_learning_2026_10/build/_shared/chunk-DOEQHMLC.js";
+import "/Machine_learning_2026_10/build/_shared/chunk-ZNG4DSCS.js";
 import {
   normalizeLabel
-} from "/build/_shared/chunk-Q6DHUCUI.js";
-import "/build/_shared/chunk-LPSXN4QV.js";
-import "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Machine_learning_2026_10/build/_shared/chunk-Q6DHUCUI.js";
+import "/Machine_learning_2026_10/build/_shared/chunk-LPSXN4QV.js";
+import "/Machine_learning_2026_10/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/myst-ext-grid/dist/index.js
 function getColumns(columnString) {
@@ -82,4 +82,4 @@ export {
   gridDirectives,
   gridItemDirective
 };
-//# sourceMappingURL=/build/_shared/dist-GWMOJ7IX.js.map
+//# sourceMappingURL=/Machine_learning_2026_10/build/_shared/dist-GWMOJ7IX.js.map

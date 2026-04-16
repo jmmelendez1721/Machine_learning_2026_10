@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Machine_learning_2026_10/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/sieve.js
 function words(str) {
@@ -146,4 +146,4 @@ init_sieve();
 export {
   sieve
 };
-//# sourceMappingURL=/build/_shared/sieve-KR56TNOZ.js.map
+//# sourceMappingURL=/Machine_learning_2026_10/build/_shared/sieve-KR56TNOZ.js.map

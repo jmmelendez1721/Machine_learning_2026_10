@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "/Machine_learning_2026_10/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/stylus.js
 function wordRegexp(words) {
@@ -628,4 +628,4 @@ init_stylus();
 export {
   stylus
 };
-//# sourceMappingURL=/build/_shared/stylus-F3UINHQ6.js.map
+//# sourceMappingURL=/Machine_learning_2026_10/build/_shared/stylus-F3UINHQ6.js.map
