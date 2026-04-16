@@ -27,6 +27,9 @@ jobs:
       - name: Check build output
         run: find _build -type f -name "*.html" | head -20
 
+      - name: Check build output ghp
+       run: find _build -type f | head -30
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
